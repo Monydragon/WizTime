@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9348ae19-db23-41c7-adfe-978bf742419d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+              <folding>
+                <marker date="1548778663000" expanded="true" signature="32:2960" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="52:2958" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="99:2952" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="697:1802" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="1054:1787" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="2443:2724" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="2584:2710" ph="{...}" />
+                <marker date="1548778663000" expanded="true" signature="2766:2848" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/GeneratorFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <marker date="1548753923000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1548753923000" expanded="true" signature="66:1822" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="109:1820" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="190:472" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="560:794" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="862:1012" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="1075:1221" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="1296:1813" ph="{...}" />
+                <marker date="1548753923000" expanded="true" signature="1590:1776" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WizTime/CombatArena.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <marker date="1548778800000" expanded="false" signature="6:49" ph="..." />
+                <marker date="1548778800000" expanded="true" signature="68:2141" ph="{...}" />
+                <marker date="1548778800000" expanded="true" signature="99:2139" ph="{...}" />
+                <marker date="1548778800000" expanded="true" signature="160:351" ph="{...}" />
+                <marker date="1548778800000" expanded="true" signature="398:2133" ph="{...}" />
+                <marker date="1548778800000" expanded="true" signature="686:2106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Actor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <folding>
+                <marker date="1548702474000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1548702474000" expanded="true" signature="66:1693" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="91:1691" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="680:713" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="756:801" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="858:957" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="992:1093" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1137:1666" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1330:1404" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1421:1553" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1595:1656" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Shield.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <marker date="1548686308000" expanded="true" signature="17:267" ph="{...}" />
+                <marker date="1548686308000" expanded="true" signature="50:265" ph="{...}" />
+                <marker date="1548686308000" expanded="true" signature="109:142" ph="{...}" />
+                <marker date="1548686308000" expanded="true" signature="187:259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Item.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <marker date="1548754341000" expanded="true" signature="17:401" ph="{...}" />
+                <marker date="1548754341000" expanded="true" signature="41:399" ph="{...}" />
+                <marker date="1548754341000" expanded="true" signature="197:230" ph="{...}" />
+                <marker date="1548754341000" expanded="true" signature="288:393" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Weapon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <marker date="1548686194000" expanded="true" signature="17:269" ph="{...}" />
+                <marker date="1548686194000" expanded="true" signature="50:267" ph="{...}" />
+                <marker date="1548686194000" expanded="true" signature="110:143" ph="{...}" />
+                <marker date="1548686194000" expanded="true" signature="188:261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WizTime/Fighter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+              <folding>
+                <marker date="1548702474000" expanded="false" signature="6:49" ph="..." />
+                <marker date="1548702474000" expanded="true" signature="68:1663" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="103:1661" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="173:206" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="243:288" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="329:618" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="500:572" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="659:817" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="854:1143" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1182:1503" ph="{...}" />
+                <marker date="1548702474000" expanded="true" signature="1542:1646" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WizTime/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/GeneratorFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/Shield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/Fighter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/12/30af509f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/CombatArena.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WizTime/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WizTime/Slot.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Weapon.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Shield.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Hero.cs" />
+        <option value="$PROJECT_DIR$/WizTime/MonsterGenerator.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Actor.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Fighter.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Item.cs" />
+        <option value="$PROJECT_DIR$/WizTime/GeneratorFactory.cs" />
+        <option value="$PROJECT_DIR$/WizTime/Program.cs" />
+        <option value="$PROJECT_DIR$/WizTime/CombatArena.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="225" />
+    <option name="y" value="144" />
+    <option name="width" value="1350" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WizTime" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WizTime" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WizTime" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WizTime/bin/Debug/netcoreapp2.2/WizTime.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WizTime" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WizTime/WizTime.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9348ae19-db23-41c7-adfe-978bf742419d" name="Default Changelist" comment="" />
+      <created>1548684081476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548684081476</updated>
+      <workItem from="1548684086071" duration="14515000" />
+      <workItem from="1548749849408" duration="135000" />
+      <workItem from="1548750945629" duration="6190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20840000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49520257" weight="0.32936078" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32987013" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32987013" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.32987013" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24935065" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3297546" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" weight="0.32987013" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WizTime/Program.cs</url>
+          <line>63</line>
+          <properties documentPath="$PROJECT_DIR$/WizTime/Program.cs" initialLine="23">
+            <startOffsets>
+              <option value="2516" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2541" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WizTime/GeneratorFactory.cs</url>
+          <line>50</line>
+          <properties documentPath="$PROJECT_DIR$/WizTime/GeneratorFactory.cs" initialLine="50">
+            <startOffsets>
+              <option value="1663" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1710" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WizTime/Program.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/WizTime/Program.cs" initialLine="27">
+            <startOffsets>
+              <option value="1200" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1250" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WizTime/Slot.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/06/4bffc36b/Nullable`1.cs" />
+    <entry file="file://$PROJECT_DIR$/WizTime/Actor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <marker date="1548702474000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1548702474000" expanded="true" signature="66:1693" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="91:1691" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="680:713" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="756:801" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="858:957" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="992:1093" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1137:1666" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1330:1404" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1421:1553" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1595:1656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/Shield.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <marker date="1548686308000" expanded="true" signature="17:267" ph="{...}" />
+            <marker date="1548686308000" expanded="true" signature="50:265" ph="{...}" />
+            <marker date="1548686308000" expanded="true" signature="109:142" ph="{...}" />
+            <marker date="1548686308000" expanded="true" signature="187:259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <marker date="1548754341000" expanded="true" signature="17:401" ph="{...}" />
+            <marker date="1548754341000" expanded="true" signature="41:399" ph="{...}" />
+            <marker date="1548754341000" expanded="true" signature="197:230" ph="{...}" />
+            <marker date="1548754341000" expanded="true" signature="288:393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/Fighter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1548702474000" expanded="false" signature="6:49" ph="..." />
+            <marker date="1548702474000" expanded="true" signature="68:1663" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="103:1661" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="173:206" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="243:288" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="329:618" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="500:572" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="659:817" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="854:1143" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1182:1503" ph="{...}" />
+            <marker date="1548702474000" expanded="true" signature="1542:1646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/Weapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <marker date="1548686194000" expanded="true" signature="17:269" ph="{...}" />
+            <marker date="1548686194000" expanded="true" signature="50:267" ph="{...}" />
+            <marker date="1548686194000" expanded="true" signature="110:143" ph="{...}" />
+            <marker date="1548686194000" expanded="true" signature="188:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/12/30af509f/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/GeneratorFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <marker date="1548753923000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1548753923000" expanded="true" signature="66:1822" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="109:1820" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="190:472" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="560:794" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="862:1012" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="1075:1221" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="1296:1813" ph="{...}" />
+            <marker date="1548753923000" expanded="true" signature="1590:1776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <marker date="1548778663000" expanded="true" signature="32:2960" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="52:2958" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="99:2952" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="697:1802" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="1054:1787" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="2443:2724" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="2584:2710" ph="{...}" />
+            <marker date="1548778663000" expanded="true" signature="2766:2848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WizTime/CombatArena.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <marker date="1548778800000" expanded="false" signature="6:49" ph="..." />
+            <marker date="1548778800000" expanded="true" signature="68:2141" ph="{...}" />
+            <marker date="1548778800000" expanded="true" signature="99:2139" ph="{...}" />
+            <marker date="1548778800000" expanded="true" signature="160:351" ph="{...}" />
+            <marker date="1548778800000" expanded="true" signature="398:2133" ph="{...}" />
+            <marker date="1548778800000" expanded="true" signature="686:2106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
